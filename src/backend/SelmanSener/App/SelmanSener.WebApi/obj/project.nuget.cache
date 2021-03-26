@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GpRwUckbvsRB3f4kUwVh22JEC5FhzFlLDsOejzTYUu3MFMYH9G89uOWAy0mSLw0ehIzpoFSs2hhSEA+ONbqm9g==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\selmansener\\src\\backend\\SelmanSener\\App\\SelmanSener.WebApi\\SelmanSener.WebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aselm\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
