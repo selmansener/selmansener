@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/selmansener/what-i-have-used-so-far)
 <!--
 **selmansener/selmansener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
