@@ -1,17 +1,16 @@
 ### Hi there 👋
 
 [![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/selmansener/what-i-have-used-so-far)
-<!--
-**selmansener/selmansener** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are a few key points about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Passionate about learning
+* Quick learner
+* Fail fast, learn fast
+* Loves to share and gain knowledge
+* Collaboration over competition
+* Trustworthy business partner
+* Mitigate first, solve later
+* Try to understand what others think
+* Try to understand others needs
+* And try to be selfless
